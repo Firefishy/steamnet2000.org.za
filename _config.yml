@@ -1,0 +1,12 @@
+domain: steamnet2000.org.za
+url: https://steamnet2000.org.za
+baseurl: / 
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
