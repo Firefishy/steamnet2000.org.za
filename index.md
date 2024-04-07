@@ -20,6 +20,17 @@ SteamNet 2000 is a dedicated club with a passion for restoring steam locomotives
 
 We believe that by bringing steam back to life, we can offer a unique glimpse into the past, while contributing to the future of Kimberley and its surroundings.
 
+## Locomotives Under Our Care
+
+| Locomotive Type | Number(s) | Wikipedia |
+|-----------------|-----------|----------------|
+| SAR Class 16e | 858 | [Wikipedia](https://en.wikipedia.org/wiki/South_African_Class_16E_4-6-2) |
+| SAR Class 11 | 918 | [Wikipedia](https://en.wikipedia.org/wiki/South_African_Class_11_2-8-2) |
+| SAR Class 12r | 1865 | [Wikipedia](https://en.wikipedia.org/wiki/South_African_Class_12R_4-8-2) |
+| SAR Class 25nc | 3437, 3441, 3457, 3467, 3482, 3537 | [Wikipedia](https://en.wikipedia.org/wiki/South_African_Class_25NC_4-8-4) |
+| SAR Class 25 | 3511 | [Wikipedia](https://en.wikipedia.org/wiki/South_African_Class_25_4-8-4) |
+| North British Tanker Engine | - | [Wikipedia](https://en.wikipedia.org/wiki/North_British_Locomotive_Company) |
+
 ## Support Our Cause: Donate or Volunteer
 
 The restoration and maintenance of steam locomotives is a challenging and expensive endeavor. Every contribution, no matter how small, helps us in our mission to preserve and celebrate steam heritage. 
